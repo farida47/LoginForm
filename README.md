@@ -1,27 +1,27 @@
-# 💗 Pink Login Form | Java Swing
+# Pink Login Form 💗| Java Swing
  A simple, elegant, and user-friendly login application built with **Java Swing**, featuring a soft pink interface , login attempt limits.and role-based authentication.
 
-## ✨ Overview
+##  Overview
 
 Pink Login Form is a desktop application designed to provide a simple and interactive login experience. Users can enter their credentials, select their role, and access a personalized welcome page after successful authentication.
 
-## 🎨 Features
+##  Features
 
-- 🌸 **Pink-Themed UI:** A clean interface with a soft pink color palette.
-- 🔐 **User Authentication:** Validates usernames, passwords, and user roles.
-- 👥 **Role Selection:** Supports Student, TA, and Professor roles.
-- 🛡️ **Login Attempt Limit:** Locks the login button after three failed attempts.
-- 💌 **Personalized Welcome Page:** Displays the username and role after successful login.
-- ⌨️ **Keyboard Support:** Press Enter to submit the login form.
+-  **Pink-Themed UI:** A clean interface with a soft pink color palette.
+-  **User Authentication:** Validates usernames, passwords, and user roles.
+-  **Role Selection:** Supports Student, TA, and Professor roles.
+-  **Login Attempt Limit:** Locks the login button after three failed attempts.
+-  **Personalized Welcome Page:** Displays the username and role after successful login.
+-  **Keyboard Support:** Press Enter to submit the login form.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - Java Swing
 - AWT
 - Object-Oriented Programming (OOP)
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Login Page
 
@@ -60,7 +60,7 @@ Pink Login Form is a desktop application designed to provide a simple and intera
    java LoginFormTask
    ```
 
-## 🧪 Demo Accounts
+##  Demo Accounts
 
 | Role | Username | Password |
 |---|---|---|
@@ -70,7 +70,7 @@ Pink Login Form is a desktop application designed to provide a simple and intera
 
 > These credentials are for demonstration purposes only.
 
-## 📚 What I Practiced
+##  What I Practiced
 
 - Building graphical user interfaces with Java Swing.
 - Applying Object-Oriented Programming concepts.
@@ -78,7 +78,7 @@ Pink Login Form is a desktop application designed to provide a simple and intera
 - Validating login credentials.
 - Managing failed login attempts.
 
-## 👩‍💻 Author
+##  Author
 
 **Farida Rizk**
 
